@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prophecy of the white king, and dreadfull dead-man explaned to which is added the prophecie of Sibylla Tibvrtina and prediction of Iohn Kepler, all of especiall concernment for these times / by William Lilly ...</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 79KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70461</idno><idno type="EEBO-CITATION">11885623</idno>
+  <idno type="VID">50369</idno>
+  <idno type="EEBO-PROQUEST">2240891042</idno>
+  
+            <idno type="STC">Wing L2240</idno>
+            <idno type="STC">ESTC R4060</idno>
+            <idno type="OCLC">11885623</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50369)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 228:E4, no 27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prophecy of the white king, and dreadfull dead-man explaned to which is added the prophecie of Sibylla Tibvrtina and prediction of Iohn Kepler, all of especiall concernment for these times / by William Lilly ...</title>
+                  <author>Lilly, William, 1602-1681.</author>
+                  <author>Kepler, Johannes, 1571-1630.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. M. and are to be sold by John Sherley and Thomas Vnderhill ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50369:1"/>
+            <p>A PROPHECY OF THE WHITE KING: AND Dreadfull Dead-man Explaned.</p>
+            <p>To which is added the PROPHECIE of <hi>SIBYLLA TIBƲRTINA</hi> and Prediction of <hi>Iohn Kepler:</hi> all of especiall concernment for these Times.</p>
+            <p>By <hi>William Lilly</hi> Student in Astrology.</p>
+            <q>Ob peccata mutat sceptra Deus, variat{que} Reges.</q>
+            <p>Published according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G.M.</hi> and are to be sold by <hi>John Sherley</hi> and <hi>Thomas Ʋnderhill,</hi> at the Golden Pellican in little Brittaine, and Bible in Woodstreet. 1644.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:50369:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hou mayest wonder that I undertake the explanation of some antient, some moderne, perhaps no Canonicall Prophecies, all so slighted and contemned by many in our dayes, as the very mentioning or naming such a thing in the judgement of some conceited Animals, may sufficiently scandalize both my person and discourse: and yet me thinkes <hi>Merlinus</hi> now might escape scot-free, for unlesse he was Master of whole Legions of De<g ref="char:EOLhyphen"/>vils, he could not now out-brave the numberlesse traducing spirits of our present age: t ey are not ashamed of being reputed full of spirits; I assure you I have no dividing, no envious, no factious, no lying, cheating, covetous, or cozening spirit, which properly attends these censuring Sycophants, I have onely one spirit, and that is the spirit of Love, Peace, and Truth, and with this one only I offer the combate to them all. I shall tell thee in part how, and upon what occasion I came to treat of this subject, and thou must be patient, and let me doe my doe, though to no purpose. In the yeare 1635. an honourable person of this Kingdome asked of me, What I did con<g ref="char:EOLhyphen"/>ceive of the times then present and in future; I was little versed in those dayes in a studie of that intricate nature as since I have found it to be; my answere was quickly made, for I never inquired into the Cabbinet of Heaven; accordingly I returned my foolish Oracle, <hi>Omnia bene &amp; in pra<g ref="char:EOLhyphen"/>senti &amp; in futuro:</hi> That answer gave no content, I was conjured by the bond of friendship to rally up my forces; and to give better satisfaction, for said this party, slight not my words, consider better, I have been informed other<g ref="char:EOLhyphen"/>wayes, <hi>viz.</hi> that <hi>England</hi> should be ingaged in Civill warres within a few yeares: The words comming so seriously, and from so sound a judgement, made me curious in the inquisition of our <hi>English</hi> affaires; And God offered me a fit opportunity, for in the latter part of that yeare 1635. I was afflicted with much sicknesse, and enforced to betake my selfe in the Countrey to avoid the multiplicity of my acquaintance more then the infirmenesse it self. In <hi>April</hi> 1636. (I bad adieu to <hi>London</hi>) it was said by some and beleeved by many, that I did it to avoide the plague which that yeare ensued: it was in that yeare, I was first acquainted with the dreame of <hi>William Laud</hi> the now unfortunate Archbishop of Canterbury: <hi>viz.</hi> that in his greatest pompe, he should instantly sinke downe into hell: I doe not remember I was told, that he should ever ascend into Heaven: in its kind, some part of this dreame hath beene since verified, and he is upon the stage to act the remainder. In that yeare 1636. a Lady of unquestionable integritie acquainted me with
+<pb n="3" facs="tcp:50369:2"/> this following Story, <hi>viz.</hi> that about the yeare 1615. King <hi>Iames</hi> then be<g ref="char:EOLhyphen"/>ing at <hi>Hampton</hi> Court, this party sent for a poore dumbe woman to a house in one of the <hi>Molseys</hi> (it was reported this silly woman could by signes predict many strange things) there was provided purposely the pi<g ref="char:EOLhyphen"/>ctures of King <hi>Iames,</hi> Queene <hi>Anne,</hi> the Palsgrave and his Lady, the Duke of <hi>Richmond,</hi> Marquesse <hi>Hamilton,</hi> &amp;c. perhaps of some others; the poore woman no sooner entred the roome, and had performed her homely complements; but she looked seriously on every picture, and with great si<g ref="char:EOLhyphen"/>lence tooke downe Queene <hi>Annes,</hi> and gently laid it under the table, ma<g ref="char:EOLhyphen"/>king signes with her fingers the number of yeares she should live, and so of King <hi>Iames,</hi> the Duke and Marquesse; not one of these exceeded the num<g ref="char:EOLhyphen"/>ber of yeares by her limited, but died precisely at the time; she then tooke the <hi>Palsgraves</hi> and the Lady <hi>Elizabeths</hi> pictures, and threw them on the ground, and with her stick did nothing but beat the pictures, and when the Lady tooke them from her, and set them up againe, she would not suffer it, but againe fought against them and set the pictures with their heads up<g ref="char:EOLhyphen"/>wards, and at last tore them all to peeces: she did other postures to other pictures: there came into the roome in this while, a proper young man and called her witch, she muttered after her manner, and made signes he should be hanged within two yeares and one halfe: and so he was, for coining sil<g ref="char:EOLhyphen"/>ver: a young Gentlewoman in the roome wept bitterly, but she pointed her finger to her brest and made signes she should live but five yeares; nor did she, but died of a <hi>Cancer</hi> in her brest; she wept sorrowfully her owne selfe, and made signes she had but three yeares to live, nor did she exceed that proportion: she did by signes declare divers accidents, and which re<g ref="char:EOLhyphen"/>ally did happen unto this Lady since my acquaintance; and which this La<g ref="char:EOLhyphen"/>dy did then tell me in the yeare 1636. In the yeare 1638. I had frequent accesse to <hi>London,</hi> by reason of a vexatious suit, of which after much expence of time and money, the most honourable Lord <hi>Coventry</hi> quitted me, for which I must ever owe to his memorie all deserved acknowledgment; I well remember about that yeare at a Picture-makers neare Temple barre there was for some moneths space daily exhibited to publique view three pictures in full length, <hi>viz.</hi> his Majesties now living, the great Welsh Porter, and a yeoman of the Guard: his Majesties casually ever in the midst, Por<g ref="char:EOLhyphen"/>ters are to keepe out enemies, yeomen of the Guard for defence. The Eclipse of the Sunne in <hi>May</hi> 1639. staggered me; being required from forraigne parts to send my opinion thereof; after some consideration of that Eclipse and the three Conjunctions of <hi>Saturne</hi> and <hi>Mars</hi> I returned a
+<pb n="4" facs="tcp:50369:3"/> weake judgement, but concluded in few words: Monarchy shall be eclipsed and darkned: <hi>Satia te sanguine miles:</hi> Souldier glut thee with bloud enough: Courtiers be well advised a storme is comming: It then appeared significantly <hi>England</hi> should not alwayes be in a happy and peaceable con<g ref="char:EOLhyphen"/>dition, but should taste of the casualties attending on humane affaires. In April 1640. I had in the Countrey a most violent burning feaver: M<seg rend="sup">r</seg>
+               <hi>Evans</hi> of Kingston advised to let bloud, and after some hopes of recovery, he so<g ref="char:EOLhyphen"/>lemnly adjured me to acquaint him with my private thoughts of the affaires of our State, (for he still doubted my health;) after a short pause, and with many sighes and some teares, I let fall these words in Latine; <hi>Videbitis vos in Kingstonia multitudinem hominum armatorum, &amp; etiam nos in hoc vico ubi nunc ago, &amp; hoc infra paucos annos: nec ego quicquam tibi prae<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ixero nisi bella &amp; divisiones huic infelicissimo regno. viz.</hi> You at Kingston shall see thousands of armed men amongst you, and we also here in this pelting village where I live; all this within few yeares; nor can I tell you any thing, unlesse I must predict warre and distraction to this unhappy Kingdome: I well re<g ref="char:EOLhyphen"/>member 8. or 10. dayes before these words, I was every halfe houre mole<g ref="char:EOLhyphen"/>sted and awaked out of my sleep, with a most horrid sight of whole compa<g ref="char:EOLhyphen"/>nies of armed troopers passing all along by my house: I had no sooner re<g ref="char:EOLhyphen"/>vealed this to M<seg rend="sup">r</seg>
+               <hi>Evans,</hi> but I afterwards slept quietly without the least di<g ref="char:EOLhyphen"/>sturbance either of sleep or fancy; Whether my spirits at that time were more pure, the body being cleansed of all muddy vapours, I foresaw this as in a dreame, or whether my good Angell or <hi>Genius</hi> incited those objects to my intellect, I leave discussing: this I know, Kingston after the skirmish at <hi>Brainford,</hi> was full of his Majesties forces, and by my house passed many of his Majesties Regiments both of horse and foot, and Prince <hi>Rupert</hi> muste<g ref="char:EOLhyphen"/>red his horse not very far from my dwelling, &amp;c. and here opportunely I have occasion offered to give the honourable Lord of <hi>Andiver</hi> his due praise, that during <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he unruly souldiers billeting five nights in our village, he and his company lying at my house, I say, I had no prejudice in the least measure in any my goods, but most nobly protected them, and also my tenants cattle: for this his singular humanity, I render him my respective thankes, &amp;c. It rests, and it will be doubted by many, how this dumbe woman could signifi<g ref="char:EOLhyphen"/>cantly expresse her meaning, or be capable of prediction: That severall both men and women have had a spirit of divination, the Scriptures expresly ma<g ref="char:EOLhyphen"/>nifest both in the old and new Testament, <hi>Acts</hi> 16. that this woman had one of that kind it may not be doubted; and for manifestation of her sence and meaning, experience tels us how active and intelligent your dumbe
+<pb n="5" facs="tcp:50369:3"/> people are, so that they will almost apprehend any thing by signes. Per<g ref="char:EOLhyphen"/>haps the Reader may laugh at these my repetitions, but I assure thee that the pondering of what thou hast heard related, as also some private notions best knowne to my selfe, have partly induced the writing hereof, but es<g ref="char:EOLhyphen"/>pecially and above all the naturall affection I bare to the <hi>English</hi> Common<g ref="char:EOLhyphen"/>wealth and City of <hi>London:</hi> I am not of the number of those that too much magnifie prophecies, or altogether slight them; except they be well taken and as rightly understood, great mischiefe may succeed: this I know, ex<g ref="char:EOLhyphen"/>cellent use might be made of some things in this Tract by some whom it may concerne, whether man or Nation, especially if it be apprehended, we are neere that destiny allotted to this people, or are in that age which must expect the iron execution of the prophecie; <hi>Paries cum proximus ar<g ref="char:EOLhyphen"/>det:</hi> Let us live in feare of the worst, yet resolvedly armed to take all advan<g ref="char:EOLhyphen"/>tages for our preservation. Thus much I say, and say it agane, and once more, he is not alive of any Nation whatever, that shall have his full carreere in vengeance upon the <hi>English,</hi> without his own proper destruction and per<g ref="char:EOLhyphen"/>haps of the whole family.</p>
+            <p>The times are drawing on, and doe draw neare, if the wisedome of the an<g ref="char:EOLhyphen"/>cients discerned any thing, or the more curious knowledge of the now sur<g ref="char:EOLhyphen"/>viving have any prescience; when <hi>England</hi> shall miraculously and as it were in a moment be disburdened of all her oppressions and oppressors: <hi>England, England, England</hi> thou shalt flourish againe and againe, thou and thy impo<g ref="char:EOLhyphen"/>verished Cities and Merchants, and of this be assured: and when the fulnes of time comes, or neere 1700. thou shalt have a principall hand with thy sister of <hi>Scotland</hi> and some Northerne people, in performing and concluding the mightiest action <hi>Europe</hi> ever beheld since the birth of our Saviour.</p>
+            <p>There's a generation living know I speake truth, which is the only cause that since 1605. a continuall counsell of the wicked Jesuits hath been yeare<g ref="char:EOLhyphen"/>ly held, the result of whose privacies hath been to extinguish both the Name and Nation of the <hi>English</hi> and <hi>Scots,</hi> unlesse we would suffer perversion in Religion: I smile to see how vainely these statesmen spend their time, as if it were possible for any man to kill his successor, the work must be done in time: I am sorry; we must suffer yet a while; and sorrow; but let us not despaire, we that are true <hi>English;</hi> for looke how many single yeares we are afflicted, so many scores of yeares I know shall be added unto us for restoration of our misfortunes, <hi>&amp;c.</hi> The zeale I owe to my Country, had almost made me forget that <hi>Merlinus Iunior</hi> must not prophesie, but para<g ref="char:EOLhyphen"/>phrase, and rest contented to be stiled;</p>
+            <closer>
+               <signed>William Lilly.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb n="6" facs="tcp:50369:4"/>
+            <head>To all well affected Englishmen.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou see what stormes, what miseries, what cruell warres our Na<g ref="char:EOLhyphen"/>tion is once like to suffer by the meanes and procurement of a King called a <hi>White King;</hi> and the successe and reward which attends him for his paines: He brings over strangers to destroy us, and God gives us command to provide sepulchers and graves for him and them: We shall not be overcome by them, but shall have victory over our enemies: It's comfort to be promised victory before hand: It may encourage us to stand stoutly for our defence, our Countries rights and pri<g ref="char:EOLhyphen"/>viledges: Let it procure an union amongst us at this time, and a constant resolu<g ref="char:EOLhyphen"/>tion to unite with the Parliament at <hi>Westminster.</hi> At this time, here are some, doubt a French Army in <hi>Flanders.</hi> Doe not feare them: Cannot God as easily give <hi>Robert</hi> Earle of <hi>Warwick</hi> leave to tumble some thousands of them in<g ref="char:EOLhyphen"/>to the sea to seede Haddocks, as he did miraculously overwhelme the <hi>Egyptians</hi> by the hand of <hi>Moses?</hi> Let us admit the worst, suppose there should some of them land; is not God able or shall we doubt of his providence, that he would not assist his Excellency <hi>Robert</hi> Earle of <hi>Essex,</hi> or some other of our valiant Generals to give faire quarter to their principall Officers, and cold earth enough to cover the dead bodies of the rest. The unrevenged blood of the massacred <hi>English</hi> and <hi>Scottish</hi> Protestants, will never give rest at home or victory abroad to those but<g ref="char:EOLhyphen"/>cherly Cannibals the <hi>Irish:</hi> I hourely expect to heare newes out of <hi>France:</hi> Hi<g ref="char:EOLhyphen"/>ther<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Lord himselfe hath sought our battles; I observe by the best and truest relations, we have not had on the Parliaments side one victory of any consequence, but in our hearts we first dispaired of the successe: Let us still call on this merci<g ref="char:EOLhyphen"/>full God in all our wayes: cherish and countenance our Generals and the respective Officers of our Armies of each Nation: extend compassion to the maimed soul<g ref="char:EOLhyphen"/>dier: and really pay the fighting souldier his wages, but especially be at unity amongst our selves: so shall we have no cause to feare, the <hi>Turke,</hi> Antichrist, <hi>French, Spanish, Irish,</hi> &amp;c. and of this be assured by</p>
+            <closer>
+               <signed>WILLIAM LILLY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="prophecy">
+            <div type="prophecy">
+               <pb n="7" facs="tcp:50369:4"/>
+               <head>THE WHITE KINGS PROPHECIE, Recorded in many antient Libraries, and amongst the rest in Sir <hi>Robert Cottons</hi> at <hi>Westminster.</hi>
+               </head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">P</seg>Ars prophetiae aquile septentrionalis ante Cadwalladrum, qui floruit circa Annum Christi</hi> 677.</p>
+               <p>Some part of a Propecie of the Northerne Eagle wrote be<g ref="char:EOLhyphen"/>fore <hi>Cadwallader,</hi> who raigned about the yeare 677. after Christ.</p>
+               <p>
+                  <hi>Mortuo Leone justiciae, surget albus &amp; nobilis Rex in Britannia, primum vo<g ref="char:EOLhyphen"/>lans, postea equitans &amp; postea descendens, &amp; in ipso descensu inviscabitur.</hi>
+               </p>
+               <p>The Lion of righteousnesse being dead, there shall arise a White and No<g ref="char:EOLhyphen"/>ble King in <hi>Brittaine:</hi> first of all flying, after that riding on horseback; some time after that departing or descending, and in that his discesse or de<g ref="char:EOLhyphen"/>parture he shall be lymed or insnared.</p>
+               <p>
+                  <hi>Deindè, dicetur &amp; digito demonstrabitur ibi est albus Rex &amp; nobilis.</hi>
+               </p>
+               <p>Moreover, it shall be reported, and pointed as it were with the finger, yonder is the White and Noble King.</p>
+               <p>
+                  <hi>Tunc congregabitur illius examen, &amp; navium ejus &amp; pro eo capietur; &amp; tunc fiat versificatio quasi de equo &amp; bove.</hi>
+               </p>
+               <p>Then shall a great multitude of his people, and of his ships be assembled together, and this company shall be taken for him; and then there will be chopping and changing, as if men were dealing for Horse and Oxe.</p>
+               <p>
+                  <hi>Et queretur emendatio, sed nullo surget, nisi caput pro capite, &amp; tunc vadet alius ubi sol oritur, &amp; alius ubi sol occidit.</hi>
+               </p>
+               <p>Men shall labour for emendation of the times; but none will be; unlesse one head for an other; some shall then goe towards the Sun rising, and others towards the Sun setting.</p>
+               <p>
+                  <hi>Post haec, dicitur per Britanniam Rex est, Rex non est.</hi>
+               </p>
+               <p>After these things, it will be noised all over <hi>Brittaine,</hi> there is a King; nay there's no King.</p>
+               <p>
+                  <hi>Post haec eriget caput suum, &amp; regem se esse significabit multis structuris, sed nulla reparatione.</hi>
+               </p>
+               <pb n="8" facs="tcp:50369:5"/>
+               <p>After these things he shall lift up his head, and shall signifie that he is a King by his many Commissions or Actions, <hi>&amp;c.</hi> bu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yet no reparation made.</p>
+               <p>
+                  <hi>Post haec erit tempus milvorum, &amp; quod quis{que} rapuerit pro suo habebit.</hi>
+               </p>
+               <p>After these actions done, it shall be a time of Gleads or Kytes, and what<g ref="char:EOLhyphen"/>soever any man snatches away, he will keepe it for his owne.</p>
+               <p>
+                  <hi>Ecce rapacitas &amp; sanguinis effusio? &amp; furni multis comparabuntur Ecclesiis.</hi>
+               </p>
+               <p>See what pilling and polling, what <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hedding of blood here is? Ovens are held in as much esteeme as many Churches.</p>
+               <p>
+                  <hi>Et quod alius seret alius metet, &amp; mors miserae vitae praevalebit, &amp; paucorum ho<g ref="char:EOLhyphen"/>minum integra charitas manebit.</hi>
+               </p>
+               <p>What one man sowes an other reapes, the prolonging of a miserable life prevailes, a few men are left in whom any sound charity abides.</p>
+               <p>
+                  <hi>Et quod quis{que} proficit vesperi, manè violabitur.</hi>
+               </p>
+               <p>What any man is master of over nigh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, shall be taken away in the mor<g ref="char:EOLhyphen"/>ning.</p>
+               <p>
+                  <hi>Deindé ab Austro veniet cum sole super ligneos equos, &amp; super spumantem inun<g ref="char:EOLhyphen"/>dationem maris, pullus Aquilae navigans in Britanniam.</hi>
+               </p>
+               <p>Afterward the chicken of the Eagle will come with the Sun upon wood<g ref="char:EOLhyphen"/>den horses from the South, sayling into <hi>Brittaine</hi> upon a rousing high spring tide.</p>
+               <p>
+                  <hi>Et applicans statim tunc altam domum Aquilae sitiens, &amp; citó aliam sitiet.</hi>
+               </p>
+               <p>And then making speed to the high house of the Eagle, thirsting, he pre<g ref="char:EOLhyphen"/>sently thirsts after an other.</p>
+               <p>
+                  <hi>Tunc nihil valebit Mercurius: sed quis{que} curabit quomodo sua custodiat, &amp; aliena requirat.</hi>
+               </p>
+               <p>
+                  <hi>Mercury</hi> shall then be in no esteeme; but every man takes care how to preserve his own, and get away goods from others.</p>
+               <p>
+                  <hi>Deindé ibit Albus Rex &amp;</hi>
+                  <note n="*" place="margin">In some copies its <hi>debilis.</hi>
+                  </note>
+                  <hi>Nobilis versus occidentem suo circundatus ex<g ref="char:EOLhyphen"/>amine, ad antiquum locum juxta current<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m aquam.</hi>
+               </p>
+               <p>Afterwards the White and Noble King <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all goe towards the West, invi<g ref="char:EOLhyphen"/>roned or guarded with a great company to an antient seate neare a running River.</p>
+               <p>
+                  <hi>Tunc occurrent ei inimici sui unde{que} &amp; signa ordinabuntur contra ipsum.</hi>
+               </p>
+               <p>His enemies shall then meete him from all parts and shall order the battell against him.</p>
+               <p>
+                  <hi>Et excercitius inimicorum ejus, ad modum clipei formabuntur.</hi>
+               </p>
+               <p>The Armies of his enemies shall present their battell in forme of a buckler.</p>
+               <pb n="9" facs="tcp:50369:5"/>
+               <p>
+                  <hi>Tum à fronte &amp; lateribus oppugnabitur, &amp; tunc albus Rex nobilis labetur in auram.</hi>
+               </p>
+               <p>At that time he shall be assaulted before and behind, or on all sides, and then the white and noble King shall dye.</p>
+               <p>
+                  <hi>Deinde pullus Aquilae nidificabit in summo rupe totius Britanniae, nec juvenis occidet, nec ad senem vivet.</hi>
+               </p>
+               <p>Afterwards the chicken of the Eagle shall build his nest in the highest rock of all Brittaine, but shall neither live till he is old nor die young.</p>
+               <p>
+                  <hi>Tunc probitas generosa patietur nulli irrogari injuriam, qui pacificato regno occidet.</hi>
+               </p>
+               <p>When this chicken of the Eagle having pacified this Kingdome is dead, the Nobility and Gentry will suffer no injury to be done to any man.</p>
+               <trailer>Finis.</trailer>
+            </div>
+            <div type="prophecy_translated">
+               <head>
+                  <hi>The WHITE KINGS PROPHECIE.</hi> Englished long since, as by the stile appeares.</head>
+               <p>WHen the Lyon of Rightfulnesse is dead, there shall rise a White King in <hi>Brittaine,</hi> first Flying, and after Riding, after Ligging down; and in this ligge down he shall be lymed, after that he shall be led. And there shall be shewed whether there be an other King: Then shall be gadred togider much folke, and he shall take helpe for him: And then there shall be Merchandice of men, (as of an Horse, or an Oxe:) And there shall be sought helpe, and there shall none arise, but bed for head: And then shall one gone, there the Sunne ariseth, another there the Sunne gone downe: After this, it shall be said by <hi>Brittaine</hi> (King is King) King is no King. After this he shall raise up his head, (and he shall be taken him to be a king, be many things to done, But wise men Reading, And then shall a range of Gleeds, and that ever each hath beraveing) he shall have it for his owne, And this shall last seven yeeres, Loe raveing and shedding of bloud: And Ovens shall be made like Kyrkes, And that as one sowes another shall reape, and death shall be better then wretched life, and Charity shall be of few men; After then shall come through the South with the Sunne, on Horse of tree, and upon all waves on the Sea, the Chicken of the Eagle sailing into <hi>Brittaine,</hi> and arri<g ref="char:EOLhyphen"/>ving anon, to the house of the Eagle, he shall shew fellowship to them beasts. After a yeere and a halfe shall be warre in <hi>Brittaine,</hi> then shall a sooth be naught worth, and every man shall keepe his thing, and gotten
+<pb n="10" facs="tcp:50369:6"/> other mens good: after the white King feeble shall goe towards the West, betlipped about with his folke, to the old place been running water, then his enemies shall meet him, and march in her place shall be ordained about him in Hoast, on the manner of a shield shall be formed, then shall they fighten on Oven front, After the white King shall fall into a Kirke-yard over a Hall. After the Chicken of the Eagle shall nestle in the highest Rooch of all <hi>Brit<g ref="char:EOLhyphen"/>taine,</hi> nay he shall naught be slain young: nay he naught come old, for then the Gentle worthines shall naught suffer wrong be done to him, But when the Reame is in peace then shall he die, and two yeeres after shall come a new Rule from Heaven and setle holy Kirke as hit shall ever more stand, and bring three Countries into one, <hi>England, Scotland,</hi> and <hi>Wales,</hi> unto the day of doome and the holy Crosse be brought into Christian mens hands, and there shall be made a Temple that never was made, such none.</p>
+               <argument>
+                  <p>
+                     <hi>The Originall hereof was found by the Lady <hi>POSTON</hi> of the County of Nor<g ref="char:EOLhyphen"/>folke, amongst the evidences of <hi>EDW.</hi> the fourth his time.</hi>
+                  </p>
+               </argument>
+            </div>
+            <div xml:lang="lat" type="prophecy">
+               <head>Another Copie as it was given me. <hi>Aquila.</hi>
+               </head>
+               <p>MOrtuo leone justiciae, surget Rex albus in Britannia, primo volans, postea equitans, deinde descendens, &amp; in discensu inviscabitur: Tunc digito mon<g ref="char:EOLhyphen"/>strabitur, &amp; dicitur ubi est Rex albus &amp; nobilis; Tunc erit mercatio hominum, velut de ove &amp; bove, &amp; dicetur Rex est, Rex non est; Post haec eriget se in regem, &amp; erit tempus Milvorum, &amp; septennio durabit guerra intra; Deinde pullus Aquilae veniet super ligneos equos anno &amp; senio, &amp; erit guerra in Britannia, ut{que} paucorum hominum integra manebit charitas: Quod enim quis pepigit ves<g ref="char:EOLhyphen"/>perè, mane violabitur: Deinde Rex albus ibit versus occidentem ad locum anti<g ref="char:EOLhyphen"/>quum juxta currentem aquam: &amp; tunc occurrunt sibi inimici sui, &amp; ad modum clipei formabitur exercitus eorum, a frontibus &amp; lateribus impugnabitur Rex; &amp; tunc rex albus &amp; nobilis labetur in auram: Deinde pullus, Aquilae nidificabit in summo rupium; nec juvenis occidetur, nec ad senium perveniet: tunc probitas glo<g ref="char:EOLhyphen"/>riosa non patietur sibi injuriam irrogari, qui pacificato regno omnes occidet, &amp; tunc erit dies judicii: explicit.</p>
+               <argument>
+                  <p>Textus rubricatus &amp; non glosa.</p>
+                  <p>The latter part of this Copie seemes vitiated, whoever reads the Prophecy, let him warily understand the word <hi>(sibi)</hi> and <hi>omnes:</hi> for therein is the most materiall thing intended.</p>
+               </argument>
+            </div>
+            <div type="prophecy_interpreted">
+               <pb n="11" facs="tcp:50369:6"/>
+               <head>
+                  <hi>WILLIAM LILLY</hi> His Paraphrase upon the precedent Prophecie.</head>
+               <p>BEcause I will avoid all misconstruction, that my intentions might point out any particular man living (as some may knavishly surmize) I will keep close to the letter of the words; and yet hope, I shall give much light to the people God hath appointed to live and be partakers of the times and infelicities thereof, predicted at least nine hundred yeares since; which times are generally supposed not yet completed. Who this prophet was (for so we must call him) I cannot learne, the originall was in Welsh, and therefore he was certainely of that people; being wrote so many hundred yeares since, should it now appeare in its own words, few, if any at all, could give the words in their genuine and native sence; for prevention whereof, it seemes some hundreds of yeares since, either <hi>Godfrey</hi> of <hi>Mon<g ref="char:EOLhyphen"/>mouth,</hi> or some other well meaning man hath put it into Latine, in which language it hath since continued; and yet in the oft transcriptions of the Latine copies, there hath crept in some multiplication of words, but not so, as to destroy the sence in the least measure: It was also translated into Eng<g ref="char:EOLhyphen"/>lish in <hi>Edward</hi> the 4<seg rend="sup">th</seg> his dayes, according to the rud<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nesse of the language of those times: Both the Latine copies and the English in effect tell us one and the same thing, <hi>viz.</hi>
+               </p>
+               <p>That the Lion of justice or righteousnesse represents a King which after the delivery of the Prophecie, was to reigne in <hi>Brittaine,</hi> and in his govern<g ref="char:EOLhyphen"/>ment, was just, mercifull and righteous to his people, or so accounted a<g ref="char:EOLhyphen"/>mongst men, under whose protection the <hi>Brittaines</hi> should live comfortably. This pious King being dead, the prophet tells, he should either leave a suc<g ref="char:EOLhyphen"/>cessor, or a King should arise after his dayes obtaining the Crowne; whe<g ref="char:EOLhyphen"/>ther he should immediatly succeed, it appeares not, or some yeares after, but he should once reigne, who either by his oft and frequent wearing of white apparell, or extremely delighting in that colour, or by giving some cognizance or Armes in a white field, or by some action or actions of his should give his subjects occasion to repute him the <hi>White King.</hi> Its intima<g ref="char:EOLhyphen"/>ted in direct words, that this <hi>White King</hi> should upon some unexpected oc<g ref="char:EOLhyphen"/>casion, or in some feare of danger, and in some haste, fly or leave his Royall seate or habitation, which is called flying: and this should be his first act in this prophecie mentioned: After this his flight; the word <hi>(Equitans)</hi> imports his raising of many Horsemen or an Army of Horsemen, wandring and riding up and downe with them, and some space of time maintaining
+<pb n="12" facs="tcp:50369:7"/> or keeping them together; but afterwards he shall it seemes be brought law and poore, and shall loose many of them, and with the remainder in<g ref="char:EOLhyphen"/>deavour to avoide his advers<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ries or pursuers, in this his flight he shall be in danger of being seised on or his person taken: the word <hi>(inviscabitur)</hi> hath relation to be ensnared or catcht by craft as birds with birdlime, <hi>viz.</hi> partly by treachery, and partly by force: men use birdlime cunningly to captivate the silly birds, and yet sometimes the harmelesse birds escape the fowler, though they loose many feathers and leave some behind them, the better to escape the rod. At the first time of this his besetting, it appeares not to me that this White King shall be taken, or his body laid hold on, for the sense of the subsequent words deny it; I rather conceive he shall obscure him<g ref="char:EOLhyphen"/>selfe for a certaine time or some dayes or weeks, after this his escape, for it shall be as it were pointed with the finger, or men shall commonly say; there the White King is; in such a place; here; there; no where; or yon<g ref="char:EOLhyphen"/>der he is: so uncertaine shall the place of his residence be: now we use to point with our finger at obj<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts farre distant, and therefore in my judge<g ref="char:EOLhyphen"/>ment, though many cunning trapps may be laid to obtaine his body, yet whensoever the White King doth appeare, its more then probable to me he evades the captivity of his person untill a little or immediately before his death.</p>
+               <p>At that time when very few men shall certainely know where the White King is, and he in this danger, many of his friends for his use shall gather and be gathering together a great Army of men, and a number of people and many ships; the White King is not recorded to be amongst them in person either at mustering his Army or numbring his ships, the words <hi>(pro eo capietur)</hi> argue the contrary, <hi>viz.</hi> that others are Agents for him and doe his businesse; and inroll men for him. We are upon these times, here seemes to bee insinuated a fight or battell either proceeding or not long af<g ref="char:EOLhyphen"/>ter subsequent, wherein many prisoners are like to be taken on both sides, and they againe as frequently exchanged, <hi>viz.</hi> man for man; as formerly men chaffered for Horse and Oxe; Lightly in exchange of cattell men have some ware, and some money: When such a generall exchange of priso<g ref="char:EOLhyphen"/>ners is, the people will be in hopes of better times, and earnestly desire peace, or an emendation of the times; but no such matter; still one head for another, or one prisoner released in roome of another. At which, many are so terrified they leave their native seates, and fly for safety into severall Countries, as into <hi>Holland France,</hi> &amp;c. and those Countries that lye Eastward from <hi>Brittaine:</hi> some are said to goe Westward, perhaps towards <hi>Ireland</hi> or <hi>Spaine.</hi>
+               </p>
+               <pb n="13" facs="tcp:50369:7"/>
+               <p>About the time of mens dispersing themselves and families into severall Countries, there seemes to be some fight wherein the White Kings friends are totally routed and discomfited, whereupon himselfe shall not dare to ap<g ref="char:EOLhyphen"/>peare openly: or else he shall willingly for some pretty time absent his per<g ref="char:EOLhyphen"/>son from his peoples knowledge, so as men shall make question all over the Kingdome, or in most places thereof, Whether the White King be living or not? or what's become of him; or there's no King; and this intimates a kind of <hi>interregnum,</hi> or as if his Regall power should be executed by others for some yeares in his so long absence: But time will manifest he was not dead by the actions which he is said to perfome afterwards; for then he is said to lift up his head; men doe usually after some deepe muse or long study upon the suddaine expresse such a posture as lifting up their head; I conceive the words doe properly signifie some appearance of precedent hardship, mi<g ref="char:EOLhyphen"/>sery, and want, and now again a recovery of some friends, and some fresh assistance, whereupon he againe publikely shewes his person to his people and friends, doing many active things, as granting Commissions, setting many things in Order in his owne Army and affaires, sending many Agents abroad into forraigne parts; and himselfe occasionally performing many actions, and bestirring himselfe carefully, so that one may mistrust some in<g ref="char:EOLhyphen"/>clination or willingnesse in the White King to make many overtures and proffers to his people for a setled peace: but the words <hi>(nulla reparatione)</hi> are like Coloquintida in pottage, for they bring to nothing all the White Kings affaires; and manifestly shew he gets nothing by all his infinite la<g ref="char:EOLhyphen"/>bours: for he shall find few men contented to sit downe with those unrea<g ref="char:EOLhyphen"/>sonable losses they shall receive in those calamitous times, and to have no recompence for themselves, or punishment inflicted on Malefactours, who were the first disturbers of the publike peace, and the destructive incendia<g ref="char:EOLhyphen"/>ries of the Brittish Common-wealth: for these considerations, I finde not any peace shall be concluded, though the words <hi>(multis structuris)</hi> and some other private conjectures, may sufficiently import many words to that pur<g ref="char:EOLhyphen"/>pose, ploddings, plots, curious devises, fained policies, and letters, messages and messengers shall oft passe and repasse in these Brittish unquiet seasons: For immediately, the <hi>(tempus Milvorum)</hi> approacheth, as if no treaty would hold, and as if for a certaine space of time, men upon horses like Kytes with wings every where, and in all places, should ravenously hunt af<g ref="char:EOLhyphen"/>ter mens substance with as much eagernesse as Gleads after their prey: we know the Kyte askes no leave, but takes all forcibly; so when ever this Prophecy comes to fulfilling, the horse-men compared to a ravenous Crea<g ref="char:EOLhyphen"/>ture,
+<pb n="14" facs="tcp:50369:8"/> will steale and take any thing they can singer without leave, or the good will of the poore oppressed Brittaine: And although, he doth not po<g ref="char:EOLhyphen"/>sitively acquaint you when these predictions shall come to passe, or when the souldier so irregularly and uncontrolled shall plunder; yet if by the thread one may recover the needle; then you must observe: when and at what time Churches and Chappels consecrated to God for his worship, are of no more estimation then the black baking Ovens; or at what time men as usually performe workes of drugery in Churches, as commonly the people in Ovens, or when profanation is made of Churches and holy places, men respecting a Church no more then a stable or barne: Then you may know (saith the Welsh Prophet) that the dayes, moneths, and yeares of the Brit<g ref="char:EOLhyphen"/>tish Common-wealth, her oppressions and sorrowes are neere at hand, and the White King upon the face of the earth. And he addeth another rule whereby you might have two strings to the bow, <hi>viz.</hi> he saith there will be much plundring in those dayes, I thinke the word <hi>(rapacitas)</hi> may well expresse that sense, there will be also much spilling of bloud, <hi>viz.</hi> much warre every where, he beginneth that verse with <hi>Ecce:</hi> or behold, was ever such doings in Brittaine before, such wicked actions countenanced: such plenti<g ref="char:EOLhyphen"/>full liberty frequently given to plunder the native of his estate; to destroy him if he refuse: to kill him at pleasure without any cause given: to steale from every man, and repute it well gotten goods: he assures safety to <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o man, nay he fore-tels much poverty to the painfull plough man and hard la<g ref="char:EOLhyphen"/>bouring Farmer, for let him sow much during these times, he shall be sure to reape but lit<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le; nay, so furious, so violent and suddaine this storme will be, he that was competently rich over-night, may have all taken away before mor<g ref="char:EOLhyphen"/>ning; notwithstanding all this each man endeavours to prolong his life though in much penury and want: the times will be so extreme, men will beleeve no man; nor will there be any neighbourhood or Charity amongst men.</p>
+               <p>Here's ever and anon the words <hi>Deinde</hi> or <hi>Post haec:</hi> as if the times would not only be plentifull of action, but of some yeares continuance (in one Prophecie it speakes of seven) when these times doe really come upon the Brittish people.</p>
+               <p>He goeth on, and long before hand tels the Brittish, that the White King notwithstanding all his horses, men, ships, and all other various devices, he shall be inforced to seeke aid in forraigne parts, whereby its evidently appa<g ref="char:EOLhyphen"/>rant, that he either voluntarily in his discretion leaves the Kingdome, or out of feare and mistrust of his person, or is in more plaine termes beaten out by
+<pb n="15" facs="tcp:50369:8"/> the Nation, the more probable truth: He steeres his slight or journey to<g ref="char:EOLhyphen"/>wards those Countries that lie South from <hi>Brittaine</hi> to procure some aide or assistance there, for re-estating himselfe and family: he is said to procure Forces, and with these outlandish souldiers, or a rabble of many Nations, or a hodge-podge, or omnigatherum of severall rude people, the White King in person comes in borrowed ships, or woodden horses, and lands his men upon an extreme high-water or spring-tide in <hi>Kent,</hi> or <hi>Sussex,</hi> as the sonne of <hi>Merlin</hi> conjectures, and perhaps neare <hi>Dover.</hi>
+               </p>
+               <p>There comes along upon the pransing woodden horses with the White King some young Prince, or principall Commander, who is said to be the Chicken of the Eagle, or of an Eagle: <hi>ergo,</hi> none of the Family of the Lion or white King: who this <hi>Pullus Aquilae</hi> may be; or who the Eagle here intended, is, or was; I am silent as a man that have no revelations; much mischiefe comes by such particular interpretations: Onely thus, Eagles shew a royall regall Family, and Chickens are harmelesse Creatures, during their youth, but after they will shew of what house they are; this <hi>Pullus Aquilae</hi> will prove himselfe a Cocke of the game, and when growne to yeares, will shew himselfe no foole, but a perfect man and lover of the Brit<g ref="char:EOLhyphen"/>taines. But because I would have none understand me improperly, I tell them before-hand, the Eagle doth not alwayes signifie the Austrian Family, or house of the Emperour or Spaniard, &amp;c. this Eagle, <hi>Merline</hi> thinkes must come more Northward, <hi>viz.</hi> he must be borne more North then <hi>Spaine,</hi> or many Cities in <hi>Germany,</hi> &amp;c. The White King and the Chicken of the Eagle, for from hence the White King hath a partner in all his a faires, acti<g ref="char:EOLhyphen"/>ons and in government, who before time was <hi>Solus cum sola:</hi> I say, they and their armed troopes presently after landing will make all possible speed either to seize the Citie of <hi>London</hi> by a furious assault, or else to give some valiant onset on the Castle of <hi>Dover:</hi> thinking to find the one easie to be ta<g ref="char:EOLhyphen"/>ken, and the other to be quietly surrendred; and the Brittaines secure, mis<g ref="char:EOLhyphen"/>trusting nothing. They both will thirst after <hi>London</hi> as the chiefest house the White King ever had; and after <hi>Kent,</hi> and therein <hi>Dover</hi> as the most convenient place for landing supplies. It's probable they shall leave the one untaken, and the other unmedled with, for the words <hi>(sitiens &amp; sitiet)</hi> im<g ref="char:EOLhyphen"/>port the great willingnesse both King and Chicken have to be possessed of either of those places, either the high house or the other; But as men natu<g ref="char:EOLhyphen"/>rally thirst for what they presently have not, but have great desire there<g ref="char:EOLhyphen"/>unto; and as men sometimes thirst for wine and are glad of faire water, and yet many times goe without that: such fortune is also allotted to other
+<pb n="16" facs="tcp:50369:9"/> men, to covet much and enjoy little, of this fate the White King partakes, &amp;c. I heare not all this while a Kingdome regained, or reconquered, onely some house, seat, or footing, or some petty village or market Towne, per<g ref="char:EOLhyphen"/>haps only a landing place is obtained. At what time these things shall be, <hi>viz.</hi> upon the entrance of these ragged troopes of men, the White King shall issue out many sugred Proclamations, and send plenty of cunning and subtill Messengers round about the Countries to publish the occasion of his comming, promising a generall pardon for all offences past. But my author saith, <hi>(Tunc nihil valebit Mercurius:)</hi> all the White Kings faire words, his Embassadours, his motion for a treaty, his well penned Letters and Mes<g ref="char:EOLhyphen"/>sages, his many verball Professions and deepe expressions, will then, I say, worke nothing in the hearts of the stubborne and wily Brittaines, ten thousand good promises will scarce procure the love of one man, the poore soules, it seemes, had formerly been so abused with dissembling and coloura<g ref="char:EOLhyphen"/>ble pretences, that now they give no credit to these protracting devices; onely in stead of returning answere, they first by flying with such goods as they can into places of safety, secure those and their wives and children: per<g ref="char:EOLhyphen"/>haps, it may be then, that a bush in <hi>Essex</hi> will be worth a farme in <hi>Kent,</hi> as some wise men have formerly said. But the men of every Countrey gene<g ref="char:EOLhyphen"/>rally enraged at this forraigne Armies landing, doe entirely unite their forces, (no tricks to make them at discord availing:) The White King ha<g ref="char:EOLhyphen"/>ving done much mischiefe in the South, and perceiving a storme is coming, that is, how all his people <hi>(Ʋnde{que})</hi> assemble against him, moveth towards the West, but not farre into the West, and makes some stop at or neere or in some antient City, Towne, or Castle by which some faire running Streame or River passeth: it seemes he marcheth in a good posture, and with a full Army as the words <hi>(suo circundatus examine,)</hi> doe import. Neither the City of <hi>London,</hi> or <hi>Kent</hi> it selfe if he land there, doe I beleeve either by his Army or Forces shall be subjected; <hi>Tunc</hi> (saith the Prophet) when the Brittaines see the White King entring farther into their Countrey, and hea<g ref="char:EOLhyphen"/>ring of the inhumanities of the barbarous souldiers upon the people in <hi>Kent, Surrey,</hi> and <hi>Sussex,</hi> then saith he, they come from all places and parts of the Kingdome, and gather themselves into severall bodies to stop his fur<g ref="char:EOLhyphen"/>ther progresse, and they shall have severall principall Commanders, who all now unanimously concurre for expulsion of their common enemies, and these Brittish forces are said and called the White Kings enemies by our Prophet, and it may be conceived, they are so termed by the White King himselfe. The Northerne and East-countrey Armies being now at the time
+<pb n="17" facs="tcp:50369:9"/> of the White Kings going Westward assembled into one body, they more Westward; and the Westerne Army (for they also very freely muster up their men and are ready to meet at a place appointed) they move South-East, and so by degrees they all so unanimously joyne together, that at last they doe inviron and catch, as in a trap, the White King and his whole Ar<g ref="char:EOLhyphen"/>my, neere or in some antient Towne, perhaps <hi>Wallingford, Kingston,</hi> or <hi>Rea<g ref="char:EOLhyphen"/>ding,</hi> or if he goe farther, it may be <hi>Oxford, Bristoll, Bath,</hi> or <hi>Salisbury,</hi> but I conceive the White King shall hardly make so long a progresse without first being surrounded.</p>
+               <p>It seemes battell is presented by the Brittish severall times unto the White King, and all wayes and passages blockt up, that now the word <hi>(in<g ref="char:EOLhyphen"/>viscabitur)</hi> will take place; for from this populous Army he cannot evade, not yeeld he will; but what followes, <hi>(Tunc à fronte)</hi> when by no way or meanes the White King will be brought out of his place of safety <hi>(Oppugna<g ref="char:EOLhyphen"/>bitur)</hi> they batter downe the workes or wals of the Towne on every side, and furiously enter the breaches, destroying and killing without any mercy those unmercifull and plundering forraigners that had so wretchedly abu<g ref="char:EOLhyphen"/>sed the poore Countreys all along their march; during the time of the souldiers rage, and while they in their heat pursue from house to house the flying enemy, the unfortunate White King, amongst the number of those that desire the prolonging an unhappy life by any shifts or meanes, (as in his former actions he was still successelesse, so now in his last above all most miserable) thinking to creepe through one house into another, being at last straightly pursued, and making too much haste, he casually comes to un<g ref="char:EOLhyphen"/>timely end by violence of a fall: which is significantly expressed by <hi>(labe<g ref="char:EOLhyphen"/>tur in auram:)</hi> This is the manner of the untimely end of him that shall be called the White and Noble King: he seemes to be stiled Noble for his birth, and perhaps for many other heroicall dispositions in him: however he appeares to be extreamely out of the affections of his people, but whereup<g ref="char:EOLhyphen"/>on one should ground a true judgement to discover upon what occasion it first tooke its rise, I cannot finde any particle to satisfie my understan<g ref="char:EOLhyphen"/>ding: But to proceed</p>
+               <p>Now begins a Comedy, the White King once departed this life, the fury of the Nation being prettily satisfied; yet not presently; for the word <hi>Deinde,</hi> doth expresse that after some expence or expiration of time, (some Copies expresse a yeare and a halfe) and a serious consultation or debate of the States of the Kingdome, whether they shall againe admit of Monarchy, by reason of the generall hatred the people had to the White King (so that
+<pb n="18" facs="tcp:50369:10"/> here appeares an extreme unwillingnesse to accept of any Kingly title) the unnaturall deportment of the White King, having so much enraged the Brittish spirits: But yet, if the words of our Prophet prove reall, The <hi>(pullus Aquilae)</hi> or Chicken of the Eagle that came in Company of the White King, and by a divine hand was preserved in the others failing and unfortunate attempts, he, I say, shall obtaine the Kingdome of Brittaine: But whether his accesse to the Crowne shall be without great labour and travell, I much question: for it is said, he shall build in the highest rock of Brittaine; we know birds that build, take paines before their nest is built, so also shall this Chicken of the Eagle; but not with the sword (the White King once dead,) but by mediation, treaties, love of the Brittish: Let it suffice he shall obtaine the Diademe, but as birds that build on high on rocks, or on the tops of tall trees (for so the words import) doe usually rebuild each yeare, and are casually in their so high erections, subject to the fury of stormes, boysterous windes, and suddaine tempests, having thereby no long or certaine assurance or possession of their habitations; no more shall this Chicken of this Eagle have in himselfe or new acquisition of a Realme, any stable hopes of the long enjoying thereof; or leaving a numerous or happy off-spring; for of his is<g ref="char:EOLhyphen"/>sue the Prophet maketh no mention at all, a signe he shall either leave none, or that he shall be the onely man of his race allotted to sway the Brittish Scepter. But alas, what shall this most honourable Chicken of the Eagle purchase to himselfe for his unwearied paines? Fame, and Love of the op<g ref="char:EOLhyphen"/>pressed Brittaines he shall: But to their perpetuall sorrow, he raignes but a few yeares; for our wise man tels, he shall not live till he is old; nor shall he dye in perfect youth: let <hi>Merline</hi> make a probable conjecture of his age at the time of his first accesse to the throne, and he will make you beleeve, this pretty Chicken will prove a good Cockrill about the 29. or 30. of his age; and that he may then be turned loose, and for sixe yeeres and one halfe, very hardly nine, this lusty Cockrill may live happily, and sway the Brittish Scepter. But having settled the Church and Common-wealth of the Brit<g ref="char:EOLhyphen"/>taines in unity, both at the time of his accesse in Division; and having brought the oppressed people to a reasonable flourishing condition, inabled the Merchant to traffique securely to all Ports, countenanced the labourious trades-man in the way of his vocation, exactly performed what a gracious Prince ought to performe for his subjects good; he then must prepare for another world, the worke being ended for which he was solely created. It will be said to him as unto <hi>Moses,</hi> who earnestly desired entrance into Ca<g ref="char:EOLhyphen"/>naan, Chicken of the Eagle, thy dayes are numbred, thy worke finished, set
+<pb n="19" facs="tcp:50369:10"/> thy house in order, the Brittaines are now in peace: in his best of yeares he unwillingly leaves the world, Nation and Crowne, to the extreame sorrow of the people: After whose death, its thought, and not improbably, a new Government succeeds, but whether Democraticall, <hi>viz.</hi> Popular or Aristo<g ref="char:EOLhyphen"/>craticall, <hi>viz. Optimatum principatus,</hi> or the Common-wealth governed by a few of the Nobility or Gentry, my Author in distinct language doth not de<g ref="char:EOLhyphen"/>liver, only he saith <hi>(Probitas generosa)</hi> will permit no wrong to be done to any man, after the death of this Chicken of the Eagle; now if the Nobili<g ref="char:EOLhyphen"/>ty or Gentry permit no wrong to be done to any, then it seemes they rule, and that's in the nature of Aristocracy, but my Author is silent, and so am I, Who this White King was, is, or really in time to come shall be, &amp;c. or whe<g ref="char:EOLhyphen"/>ther he is in <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he number of the deceased, or living Kings, I finde not; I am of opinion his Tragedy (if any such shall ever be) is not yet acted; I dare not affirme it is acting:) its more apparant to my understanding that the times are not yet expired then elapsed; I finde nothing historically sounding to maintaine the sense of those will have this Cometragedy acted; My selfe am confident, that an high, a mighty, and a supreame piece of worke is already upon the stage of Europe in action, answering to the greatest of preceding ages, and verily this so great a mutation, or transmigration of Kings, King<g ref="char:EOLhyphen"/>domes, Monarchies and Common-wealths shall absolutely be apparant, if not in some measure compleated before or neare 1666. The formidable Eclipse in 1654. threatens a beginning to purpose, &amp;c. All this I probably conjecture by the <hi>Clavis</hi> of the more secret Astrology: but in what nature this grand accident shall come to passe, or by whose meanes at first it will shew its selfe, or by what Prince in particular these grand actions shall first be undertaken, agitated, and actively concluded, or what Kingdome in par<g ref="char:EOLhyphen"/>ticular shall hereafter produce, or hath already produced this second <hi>Caesar,</hi> the palpable forerunner of these expectant mutations, let man pardon me, that taske must be prosecuted by a more able hand, or untill I see this Para<g ref="char:EOLhyphen"/>phrase either accepted or slighted, &amp;c.</p>
+               <trailer>The End of the Paraphrase.</trailer>
+            </div>
+         </div>
+         <div type="prophecy">
+            <pb n="20" facs="tcp:50369:11"/>
+            <head>The second PROPHECIE: or the <hi>Dreadfull Dead-man:</hi> wrote in Greek Characters, and printed 1588. in <hi>Harvyes</hi> problematicall Discourse.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen <hi>HEMP</hi> and <hi>E</hi> is come and gone, then take heed to your selves: For three yeares warre shall never cease: that you will wish your selves under the earth: Mark well that, after <hi>E</hi> is come and gone, then commeth England to d<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>struction by seven Kings: as the <hi>Emperour,</hi> the <hi>French King,</hi> the <hi>Scots King,</hi> the <hi>Danes King,</hi> the <hi>Spanish King,</hi> the <hi>Roman,</hi> the <hi>King</hi> of <hi>Swethland:</hi> God cease it at his will, and after that shall come a Dreadfull Dead<g ref="char:EOLhyphen"/>man; and with him a royall Y, on the best bloud in the world, and he shall have the crowne, and shall set <hi>England</hi> on the right way, and put out all heresies.</p>
+            <div type="prophecy_interpreted">
+               <head>The Explanation.</head>
+               <p>THis Prediction or Prophecy, call it what you will, by the Character, words and sense seemeth more antient then of yesterdayes minting; wrote long before the Raigne of <hi>Henry</hi> the 8. printed it was by <hi>Harvy</hi> in 1588. while the vertuous <hi>Elizabeth</hi> lived and governed; no exceptions was taken either to it or the author, or many more which he published, so free were those times of malice, and so judicious were the then Grandees of State: I hope I shall find them so now; Who ever he was that penned it, doth not appeare by any name, or any reading; the Prophecie carrieth a great affection to the <hi>English</hi> Nation, whom in effect it only concernes, and he had a great desire in a mysticall litterall way to premonish them of many dangers were like to befall them, but because he knew that if he should in particular expresse the thing he intended, he should have ill requitall, he therefore by five letters very significantly acquainted our Nation what in time to come they should expect, and from what people their miseries should proceed and be derived, and thus in effect he would have said:</p>
+               <p>
+                  <hi>England,</hi> I tell thee when <hi>Henry</hi> the 8. whom I represent by <hi>H</hi> the first letter of <hi>HEMPE,</hi> is dead and buried, and when <hi>Edward</hi> the sixt, Queen <hi>Mary,</hi> King <hi>Philip,</hi> and last of all Queen <hi>Elizabeth,</hi> intended by me in the <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onte last letters of <hi>HEMPE:</hi> are all departed this life, after their deaths, I
+<pb n="21" facs="tcp:50369:11"/> say, thou <hi>England</hi> shalt come to infinite misery, sorrow and affliction, al<g ref="char:EOLhyphen"/>most to destruction, but not totally. Thy enemies would have it so, and in the judgement of all thy neighbour Nations it will be so conceived, it will be a faire chastisement, but not thy finall ruine, &amp;c.</p>
+               <p>For some yeares after Queen <hi>Elizabeths</hi> death, a most violent and trouble<g ref="char:EOLhyphen"/>some warre shall afflict thee, and it shall continue with much fiercenesse three whole yeares; nay, it shall be prosecuted with that violence, thy Inhabitants in many Counties considering their extreme hard condition, shall wish themselves under ground on purpose to avoid the pittifull objects which whilest they are alive they cannot shunne. But <hi>England,</hi> saith he, mistake me not, these thy sad times cannot, or shall come upon thee untill Queen <hi>Elizabeth</hi> is dead: whereby thou hast a sufficient time to make thy peace with God for prevention of these mischiefes, or else hast opportunity of transplanting many of thy faithfull families: Thy Native <hi>English</hi> shall be three yeares in continuall warre, bloud-shed, and action; and thereby so weaken themselves with their intestine divisions; as then, and not till three yeares be ended, thou dost hazard thy liberty, weale-publike, and all the store thou hast, by giving occasion to the <hi>Emperour,</hi> the <hi>King of Spaine,</hi> the <hi>Pope,</hi> the <hi>French King,</hi> the <hi>King of Denmarke, King of Scotland, King of Sweth<g ref="char:EOLhyphen"/>land,</hi> to joyne their united Forces or Councels against thee, all these Nations shall then take their severall opportunities of doing thee mischiefe, by sen<g ref="char:EOLhyphen"/>ding men, money, politique devices, ships or the like in an hostile way for thy destruction:
+<q>Tantaenè animis coelestibus irae?</q> And I tell thee with these ships, and these men, these moneys shall also come a <hi>Dreadfull Dead man;</hi> or some dejected fugitive Prince, or one lost in the eye of the world, and in the love and affection of his people, or one that had raigned formerly in <hi>England,</hi> and then was deprived of Go<g ref="char:EOLhyphen"/>vernment, or one that will lay claime to the Crowne by a long sleeping dead title, this <hi>Dreadfull Dead-man</hi> I tell thee, who intends nothing but confusion to thy long continued happinesse, thy Lawes and Liberties; he, I say, will either willingly of his owne accord, or by injunction of those seve<g ref="char:EOLhyphen"/>rall Nations that shall supply him, bring along and over with him in his company, some principall young Prince, or noted Commander, or rather some discreet Governour to direct his unprosperous affaires, the Army and the men that attend this service; and I tell thee this Governour is royally and nobly extracted; nay, I say, of the best bloud of the world, or in more plaine termes, of a most antient and vertuous family, if any at that time be:
+<pb n="22" facs="tcp:50369:12"/> This Prince that shall come but in assistance of the <hi>Dreadfull Dead-man,</hi> shall after some expence of time obtaine the Crowne of <hi>England</hi> for him<g ref="char:EOLhyphen"/>selfe, and keepe it: for the Dead-man shall make a dead piece of worke, in trusting to his alien friends, little dreaming that no one helpes him for love, nor considering the mystery long before his death plotted against <hi>England;</hi> but I tell thee himselfe miscarries, and then the new-come Person, pacifies and sets the <hi>English</hi> in the right way, and banisheth all heresies, and novell sects, for at that time both Church and State will be out of order. The <hi>En<g ref="char:EOLhyphen"/>glish</hi> will honour this worthy man, and will they not have cause? he was not intended by some for thy good (Oh <hi>England</hi>) but ill, yet see how God in his wrath takes a Crowne from one, and bestowes it on another; this will seeme strange, but so it will be.</p>
+               <p>
+                  <hi>This Prophecy in effect aimes at the same thing the White King did.</hi>
+               </p>
+               <p>The White King and Dreadfull Dead-man are all one.</p>
+               <p>The Chicken of the Eagle, and he comming with the Dead-man are one.</p>
+               <p>The one is the Chicken of the Eagle, <hi>viz.</hi> well descended: the other is said a royall <hi>Y</hi> of the best bloud in the world.</p>
+               <p>The Chicken of the Eagle pacifieth the Brittaines.</p>
+               <p>The Dead mans assistant sets <hi>England</hi> in the right.</p>
+               <p>So that it seemes he fore-saw that <hi>England</hi> and <hi>Brittaine</hi> should be all one, or King of <hi>England,</hi> King of <hi>Brittaine.</hi>
+               </p>
+               <p>If ever either of these Prophecies prove reall, into what a miserable con<g ref="char:EOLhyphen"/>dition will the White King or Dead-man plunge himselfe; that wil<g ref="char:EOLhyphen"/>fully plodding with seven severall Nations for destruction of <hi>England,</hi> shall never live to see his malice executed, but shall dye in pursuite of his malice, and loose both life and Kingdome, and perhaps to his everlasting infamy it will be recorded: Then all the people of the land rejoyced, and the Citie was quiet, after they had slaine the Dreadfull Dead-man with the sword.</p>
+            </div>
+            <trailer>The end of the second Prophecie.</trailer>
+         </div>
+         <div type="prophecy">
+            <pb n="23" facs="tcp:50369:12"/>
+            <head>THE Prophecie of <hi>SIBYLLA TIBƲRTINA</hi> found in <hi>Anno</hi> 1520. in <hi>Switzerland</hi> ingraven on a Marble stone.</head>
+            <p>
+               <hi>ORietour Sydous in Europa soupra Iberos ad magnam Septentrionis do<g ref="char:EOLhyphen"/>nium.</hi>
+            </p>
+            <p>A Starre shall arise or appeare in <hi>Europe</hi> over the <hi>Iberians,</hi> towards the great house of the North.</p>
+            <p>
+               <hi>Conjus radij orbem terrarum ex improviso illoustrabunt.</hi>
+            </p>
+            <p>Whose beames shall unexpectedly enlighten the whole world.</p>
+            <p>
+               <hi>Hoc vero erit tempore desideratissimo, quo mortaleis positeis armeis pacem onani<g ref="char:EOLhyphen"/>meis complectanton.</hi>
+            </p>
+            <p>This shall be in a most desired time, when mortall men being weary of Armes, with joint consent embrace peace.</p>
+            <p>
+               <hi>Certabitor quidem varieis per dioutourni interregni occasionem studieis, coi im<g ref="char:EOLhyphen"/>perij habenae tradantor.</hi>
+            </p>
+            <p>Certainely it will be long contended with strong hand, to whom the rules of government shall be committed, during the occasion of a long interreg<g ref="char:EOLhyphen"/>num, or vacancy of a Governour.</p>
+            <p>
+               <hi>Sed vincet tandem aviti sanguinis propago, quae eous{que} armorum vi progredie<g ref="char:EOLhyphen"/>tour, donec fata contraria fatis obstiterint.</hi>
+            </p>
+            <p>At length a family of auntient discent prevailes, and will go on in a course of warre, untill contrary fates resist his fortune.</p>
+            <p>
+               <hi>Nam eodem ferè tempore hoc demerso sydere, coevum quoddam ejous lumen, longè ardentioribous mavortis ignibous exardescens, Antipodum finibus occludet imperium.</hi>
+            </p>
+            <p>For almost at the same time that this starre is sunke downe, a light as an<g ref="char:EOLhyphen"/>tient as the former, or of the same age, burning with farre more eager flames of warre, shall shut up his government to the coasts of the Antipodes.</p>
+            <p>
+               <hi>At prius houic soummitties cervices Gallia.</hi>
+            </p>
+            <p>
+               <hi>France</hi> shall first be yoaked by this King or Prince.</p>
+            <p>
+               <hi>Ad ejous genoua soupplex adnatavit classibus Britannia.</hi>
+            </p>
+            <p>
+               <hi>Brittaine</hi> shall humbly in shipps cast her selfe at his knees.</p>
+            <pb n="24" facs="tcp:50369:13"/>
+            <p>
+               <hi>Italia aegrè ad ardua sceptra respirans, olli languentem portendet dexteram.</hi>
+            </p>
+            <p>
+               <hi>Italy</hi> pawsing wit<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great deliberation upon high enterprises, will contri<g ref="char:EOLhyphen"/>bute to him her languishing right hand.</p>
+            <p>
+               <hi>Verum hocce joubar antè diem ingenti mortalium desiderio se divum nonbibous condet.</hi>
+            </p>
+            <p>But this very light shall hide it selfe in the cloudes of the gods long before his <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ime with the mighty desire of mortall men.</p>
+            <p>
+               <hi>Quo extincto, post deiras &amp; sanguinolentas cometas, ignivomas{que} coeli facies, nihil amplious toutum saloutarevè erit.</hi>
+            </p>
+            <p>Which being extinguished, and after the threatnings of the Gods, bloody Comets, fiery face of Heaven, there shall then be no more safety any where.</p>
+            <p>
+               <hi>Os{que} animantibus coeli firmamentum pugnantibous{que} planeteis &amp; contrarieis corsibous labefactabitour.</hi>
+            </p>
+            <p>Untill the firmament of Heaven with its living creatures and justling Planets in their contrary courses do slide away or be destroyed.</p>
+            <p>
+               <hi>Concurrent orbibous orbeis, fixae cursu antevertent erraticas, aequabount aequora montes.</hi>
+            </p>
+            <p>Each Orbe shall contend with an other, the fixed starres shall overgo the wandring Planets, the seas shall equall the mountaines.</p>
+            <p>
+               <hi>Haec omnia deni{que} erunt nox, interritus, rovina, dampnatio ac aeternaï tenebraï.</hi>
+            </p>
+            <p>To conclude, all these things shall come to passe, night, destruction, ruine, calamity and eternall darknesse.</p>
+            <div type="prophecy_interpreted">
+               <head>The Paraphrase.</head>
+               <p>THE Author of this Prophecie was <hi>Sibilla Tiburtina,</hi> the last of those ten <hi>Sibills</hi> which the antients had in such esteeme, of whom <hi>Lactantius</hi> and S. <hi>Augustine</hi> make mention: some late Authors have recounted more, <hi>viz. Sibilla Europaea,</hi> and <hi>Agrippina;</hi> but I have seene as yet none of their works: At what time our <hi>Sibilla</hi> lived it doth not appeare: this Prophecie was dis<g ref="char:EOLhyphen"/>covered by the force of a violent flood washing away the earth in <hi>Anno</hi> 1520. in <hi>Switzerland:</hi> It was much esteemed, and a coppy hereof was presently transmitted to <hi>Rome,</hi> and severall expositions framed, some fan<g ref="char:EOLhyphen"/>cying <hi>Charles</hi> the fift, others <hi>Phillip</hi> of <hi>Spaine,</hi> some the King of <hi>France,</hi> all shot besides the marke, the person shall not be of any of those Nations, he shall be of a more obscure and remote Countrey: I looke to erre my selfe, yet perhaps my arrow will fall neare the marke, I would no<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hit the white. The illustrious <hi>Tycho</hi> repeats this Prophecie, and saith it was worthy of observation, but gives no Comment.</p>
+               <pb n="25" facs="tcp:50369:13"/>
+               <p>At my first entrance I find some obstruction in the word <hi>Sidus,</hi> which naturally signifies a signe in Heaven consisting of many starres, or a constel<g ref="char:EOLhyphen"/>lation of many joyned to or neare together, and not properly one Starre, which is usually expressed by <hi>Stella, à stando:</hi> if this be the mean<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of the word <hi>Sidus,</hi> the Prophetesse tells us, that in the latter dayes there should arise a people or State inhabiting neare the farthest Northerne habitable part of <hi>Europe: (Tycho</hi> thought the <hi>Iberi</hi> herein mentioned t<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> those which inhabit Northward towards <hi>Muscovia,</hi> to be the people intended by <hi>Sibilla:</hi>) that they I say and their Armies should upon the suddaine, when least suspected, give cause of wonder all over the world: or let us conceive that <hi>Sibilla</hi> intended there was to come a <hi>King</hi> borne very farre North<g ref="char:EOLhyphen"/>ward, that by his own personall valour and atchievement,<note place="margin">Some concei<g ref="char:EOLhyphen"/>ued this King to be the King of <hi>Sweden, Gustavus.</hi>
+                  </note> and of his Offi<g ref="char:EOLhyphen"/>cers at home and abroad should bring the world in suspence of his successe, and that this Prince should be fore-shewed to the world long before his comming by some Comet verticall especially to that continent.</p>
+               <p>But this man or peoples comming or first appearances shall not be abso<g ref="char:EOLhyphen"/>lutely in a time of warre or peace; it shall be, when almost all Nations wea<g ref="char:EOLhyphen"/>ried with either forraigne or domestique warre, shall unanimously be desi<g ref="char:EOLhyphen"/>rous of peace; the truth is, it will be whenas most Nations have so weake<g ref="char:EOLhyphen"/>ned themselves they can resist no longer, then this Nation or this King, lurking and catching advantage all the while, shall first manifest their intentions. The certaine yeare cannot be knowne, but here is light given whereby it may more easily be discerned, that the first appearance of this flashing Starre shall be immediately after the decease of some principall King, and before the accesse of an other to the Crown; that is in the vacan<g ref="char:EOLhyphen"/>cy of a Governour or Monarch: In which time there will be some buzling who shall rule. The governement at last she saith shall be possessed by the offspring of the most antient lineage; which will not so rest contented with one only Crowne, but will proceed to further trouble, untill they find themselves cut off by a stronger hand, so that the first pretender and his offspring and family are cut off; when ever this is, and it will not be long in doing, there starts up a progeny as antient as the former, and he makes work to purpose, <hi>viz.</hi> more fierce and cruell warres then his predecessor, and inlarges his confines to the borders of the <hi>Antipodes;</hi> whereby is meant, he conquers many Nations, and where ever he sets footing with his Army; but we are given to understand, that before he make such victorious ex<g ref="char:EOLhyphen"/>cursions, he shall yoake and subdue <hi>France;</hi> and that <hi>Britannia</hi> shall humbly crave his assistance; as also <hi>Italy</hi> taking things something ill, mi<g ref="char:EOLhyphen"/>strusting
+<pb n="26" facs="tcp:50369:14"/> and envying this starres greatnesse, will lend him small assistance, <hi>&amp;c.</hi> for the <hi>Italian</hi> had rather himselfe attaine this honour, but shall not; To proceed, this glorious starre that in a moment fills all Kingdomes of <hi>Europe</hi> with admiration and expectancy, before his naturall time ends his dayes, leaving such a fame behind him as few shall ever attaine the like. After the extinguishment of this light or a second <hi>Alexander,</hi> she saith there will be many prodegies in the aire, <hi>&amp;c.</hi> and that the Planets sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll moove in a contrary course or irregularly; that is, all the world againe shall bestirre themselves, so that no safety of person will be any where; One King or Prince shall quarrell with an other, and every one shall doe things contrary to Law, Justice and reason, and take quite contrary courses to pre<g ref="char:EOLhyphen"/>sidents of former times, every man shall be in action one against an other; but see the issue of this dissention, the fixed Starres in their motion shall outgoe the Planets, (a thing in nature impossible:) the Planets have re<g ref="char:EOLhyphen"/>presentation of Kings, Governours, Rulers, Gentry, Nobility, <hi>&amp;c.</hi> the fixed Starres being in number many, have naturally the signification of the com<g ref="char:EOLhyphen"/>mon people; the motion of the Planets is exceeding swift, of the fixed Starres very slow; Now if it happen the fixed Starres or commonalty in vertue and goodnesse, or in motion, over-run the Planets in their courses, or out-strip the Gentry in power or vertue, then judge the event. But such a thing shall assuredly come to passe, the sense is twice reiterated, the seas shall be equall with the mountaines, the sea is the people, mountaines are Kings and Rulers: This is an advantagious admonishment to the Mo<g ref="char:EOLhyphen"/>narchs, Nobility and Gentry of <hi>Europe,</hi> to be just and loving to their sub<g ref="char:EOLhyphen"/>j<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts, servants and tenants, to live vertuously, and to be a light or candle al<g ref="char:EOLhyphen"/>way shining before the eyes of their people; that they beware of private dissentions, least they thereby diminish their power and authority, for you may see the common people signified by the fixed Starres and the seas will at length take hold of it, and indeavour to procure the reines of go<g ref="char:EOLhyphen"/>vernment to themselves and into their hands; when these things come to passe, a world of mischiefe followes, and long it will be ere the misery that warre brings upon the world will be repaired; These things saith <hi>Sibilla</hi> shall surely come to passe, and then is night, destruction, <hi>&amp;c.</hi> I have seene some <hi>English</hi> Prophecies intimate as much to happen in <hi>England;</hi> one whereof saith, when the sea ruleth all the land, farewell the mirth of mer<g ref="char:EOLhyphen"/>ry <hi>England:</hi> the Mare shall breake her halter: I have heard many Gentle<g ref="char:EOLhyphen"/>men complain, of the meanenesse and insufficiency of many vulgar men now in severall Countries imployed by our State, greatly to the dishonour of the
+<pb n="27" facs="tcp:50369:14"/> Gentry, and prejudice of the service: but in time it will turne to a further mischiefe: Coridon knowes how to obey not to command. <hi>Ne sutor:</hi> is an excellent proverbe: Let the example of Bishops that had good educati<g ref="char:EOLhyphen"/>on teach us, &amp;c.</p>
+               <p>
+                  <hi>Ambrose Merline</hi> the Welsh Prophet he intimates as much; saying, <hi>Currus Lunae turbabit Zodiacum, &amp; in fletum prorumpent Pleiades.</hi> The Cha<g ref="char:EOLhyphen"/>riot of the Moone shall disturbe the Zodiack, and the <hi>Pleiades</hi> shall breake forth into lamentations. The sence of the Prophet is, that towards the latter end of the Brittish Monarchy, the Common people should disturbe all law and civill Government, and exceed their former bounds, and contemne and despise their superiours, but you shall see what followes; by <hi>Pleiades,</hi> he shewes a tumultuous company of people by these rash actions, shall cause much lamentation and weeping amongst themselves and to others; and this is the issue of unruly tumults.</p>
+            </div>
+         </div>
+         <div type="prophecy">
+            <head>
+               <hi>Kepler</hi> his Prediction upon the fiery Trygon, beginning 1603.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">P</seg>Ʋgnabunt reges Europae de imp<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riis hic vi res agetur, illic insidiis pro diversis nationum moribus; in Germania at{que} etiam alibi, magis ma<g ref="char:EOLhyphen"/>gis{que} exacerbabuntur animi, quo magis convalescent, qui antiquita<g ref="char:EOLhyphen"/>tem defendunt, hoc proprius coibunt qui libertatem.</hi>
+            </p>
+            <p>The Europeian Kings shall fight for mastery, in this Country the matter shall be handled by dint of sword, in another by deceit, according to the di<g ref="char:EOLhyphen"/>versity of manners and customes of each Nation. In <hi>Germany</hi> and else<g ref="char:EOLhyphen"/>where mens minds shall more and more be provoked to wrath, whereby they become most strong that defend Antiquity: they agree better that maintaine Liberty.</p>
+            <p>
+               <hi>Et quò prosperiori hi utentur fortuna, hoc acerbius invicem mordebunt, con<g ref="char:EOLhyphen"/>sumentur{que} invicem.</hi>
+            </p>
+            <p>See, the better fortune these have, the more they fret each at other, and inwardly consume one another.</p>
+            <p>
+               <hi>Fieri{que} tunc potest, ut novae factiones, novae{que} opiniones emergant; quanquam contentionem studium apud politicos in declinatione est.</hi>
+            </p>
+            <p>It may then come to passe new factions and new opinions in Church
+<pb n="28" facs="tcp:50369:15"/> may arise; although amongst Politicians the desire of setting together by the eares may seeme to be declining.</p>
+            <p>
+               <hi>Existent igitur compositores, qui ipsi non minus turbarum concitabunt, quam si novam sectam suaderent.</hi>
+            </p>
+            <p>Many that would compose differences, shall no lesse stirre up a faction against themselves, then as if they were broaching a new sect in Religion.</p>
+            <p>
+               <hi>Krabbus dixit eadem de oritura religione media, sed oculis in coelo in regem aliquem Europae, in{que} rumores, nonnullos aulicos retortis.</hi>
+            </p>
+            <p>
+               <hi>Krabb</hi> foretold these mischances should arise, about some mediocrity, or indiff<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rency in Religion, but looking backe into the face of Heaven, he judged upon some King of Europe, many flying rumours, and some Cou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tiers.</p>
+            <p>
+               <hi>Mutationes contingent non spernendae, magistratibus his inter mortuis, illis diversae professionis succedentibus suas{que} secum trahentibus provincias, etquae, prius illae didecerant, dedocentibus.</hi>
+            </p>
+            <p>Alterations not despicable shall happen, the Magistrates of these times once dead, they of contrary profession succeeding, drawing along with them their Provinces, instructing them in such matters as formerly them<g ref="char:EOLhyphen"/>selves had learned.</p>
+            <p>
+               <hi>Haec omnia sic dico, ut is qui solum naturam intuetur.</hi>
+            </p>
+            <p>I mention these things, as a man that only looks into nature.</p>
+            <p>
+               <hi>Interim divinae providentiae non sum immemor; quae sic natura interdum utitur, ut quam ipsam providit; at certè à natura non accipit leges, poenas, misericordiam{que} suam inter eos qui placuere dispensandi.</hi>
+            </p>
+            <p>In the meane time I am not forgetfull of divine providence, which sometimes so use<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h nature, as to provide those very things she doth.</p>
+            <p>But doubtlesse Providence receives no Lawes from nature, either of dis<g ref="char:EOLhyphen"/>pensing punishments, or her mercies amongst those, where she her selfe pleaseth.</p>
+            <argument>
+               <p>
+                  <hi>These need no explanation, the text it selfe being so plaine, &amp;c.</hi>
+               </p>
+            </argument>
+         </div>
+         <div type="prophecy">
+            <pb n="29" facs="tcp:50369:15"/>
+            <head>A Prophecie found in a wall, in a Carthu<g ref="char:EOLhyphen"/>sian house in the County of Sommerset, <hi>Anno Dom.</hi> 1548. by a Mason, a Copy whereof was taken by <hi>Richard Mogg.</hi> 1623.</head>
+            <l>
+               <seg rend="decorInit">F</seg>Rom <hi>Caesar</hi> did the Tell beginne,</l>
+            <l>
+               <hi>600.</hi> yeare ere Will did winne,</l>
+            <l>
+               <hi>66.</hi> hoyst Norman sayle,</l>
+            <l>
+               <hi>600.</hi> more makes up the tale.</l>
+            <l>Remember M. D. C. L. X.</l>
+            <l>V. and I, then neare a Rex;</l>
+            <l>Marke the holy written beast,</l>
+            <l>
+               <hi>666.</hi> it beast,</l>
+            <l>
+               <hi>Daniels, Iohn,</hi> and Maydens sonne,</l>
+            <l>Vast it was, and vast is done;</l>
+            <l>Accurst in E Normans heire,</l>
+            <l>Englands Crowne shall never weare▪</l>
+            <l>The Northerne Pole, the <hi>Adams</hi> I</l>
+            <l>Albions Gruff shall smart per dy,</l>
+            <l>VVhen Hempe is growne, and downe gone</l>
+            <l>Three Kings shall raigne in Albion,</l>
+            <l>Alien by byrth, Alien by name</l>
+            <l>Shall bring this Isle to mickle blame,</l>
+            <l>
+               <hi>H</hi> Roses, <hi>I</hi> King, the head <hi>H</hi> gone</l>
+            <l>Since ☉ begunne.</l>
+            <pb n="30" facs="tcp:50369:16"/>
+            <l>The Siluers dare, and leaze so fast,</l>
+            <l>Naked gang and pincht at last,</l>
+            <l>From Hill he came into a Dale,</l>
+            <l>Little Mack, and Mick growne small.</l>
+            <l>The Redshank and the Blue-spun hood</l>
+            <l>Shall chat of much, and do no good;</l>
+            <l>Then chuse a Pape, who best chuse can,</l>
+            <l>More then a K: more then a Man.</l>
+            <l>His name shall beare the <hi>written spell,</hi>
+            </l>
+            <l>So holy writ the Kirke doth tell —</l>
+            <l>North and South take East and West</l>
+            <l>The <hi>Alder</hi> bird dead in the nest.</l>
+            <l>Then speake thy minde, or hold thy cha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t,</l>
+            <l>A daggers better then a hatt.</l>
+            <l>Poore and bare by Lyching much,</l>
+            <l>A Kings heart, a beggars purse,</l>
+            <l>An Eagles wing, a Lions tayle,</l>
+            <l>Micke is day, without a vaile.</l>
+            <l>
+               <hi>F. E. C. I.</hi> I have said and done,</l>
+            <l>End you must where I begunne.</l>
+            <l>Albions worst is well neare runne,</l>
+            <l>The loud Pype stopt; the Fife and Drumme,</l>
+            <l>Each man speakes, but nought is done.</l>
+            <l>Haunce Lurken Dirt Mine Here,</l>
+            <l>Spanish, English, Remish feare,</l>
+            <l>Two Lasses shall doe more</l>
+            <l>Then all an Army whilkt before,</l>
+            <pb n="31" facs="tcp:50369:16"/>
+            <l>Couch you close, Cover La ffue</l>
+            <l>Wheresoever thou shalt gang,</l>
+            <l>Waile and wring thy Clomels for paine,</l>
+            <l>A woman Child, an Ape, a Beare</l>
+            <l>Hath topsy turn'd all the spheare;</l>
+            <l>Coine and Gold thou hadst store,</l>
+            <l>Pen thy Cowes, and Tine the dore,</l>
+            <l>Saxson, Brittish, Danish wort</l>
+            <l>Every subject to Mick Warpe.</l>
+            <l>Knights and Knaves all in a stall,</l>
+            <l>Arise Wall Roy, revenge doth call.</l>
+            <l>Accurst of God, Kirke his sinne▪</l>
+            <l>Did first this dolefull game beginne;</l>
+            <l>Looke where thou wilt farre and wide</l>
+            <l>Fire burnes on every side;</l>
+            <l>More I ken, but quake to tell,</l>
+            <l>I ken too much in kenning Hell.</l>
+            <l>From <hi>60.</hi> till the beast be dead,</l>
+            <l>The Heavens warme with fiery red,</l>
+            <l>
+               <hi>120</hi> to Amen <hi>166/106</hi> to make an end,</l>
+            <l>
+               <hi>6.</hi> a Clock and <hi>6.</hi> deales past</l>
+            <l>Then <hi>6.</hi> dayes the Sabbath last.</l>
+            <l>If thou wilt ken what I wot,</l>
+            <l>Heare thou may'st, but read me not,</l>
+            <l>This mick the Kirk hath got</l>
+            <l>To bring them to their blessed lot.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
